@@ -62,4 +62,4 @@ It is necessary to organize an accounting system for the nursery in which domest
     блоке try-with-resources. Нужно бросить исключение, если работа с объектом
     типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
     считать в ресурсе try, если при заведения животного заполнены все поля.  
-Программа написана на Java в консольном варианте [petregistry](petregistry)
+Программа написана на Java в консольном варианте [petregistry](petregistry)  
