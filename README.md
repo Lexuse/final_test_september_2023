@@ -4,3 +4,4 @@ It is necessary to organize an accounting system for the nursery in which domest
 Необходимо организовать систему учета для питомника в котором живут домашние и вьючные животные.
 
 
+![img.png](img.png)
