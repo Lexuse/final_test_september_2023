@@ -10,4 +10,4 @@ It is necessary to organize an accounting system for the nursery in which domest
    Переименовать файл, дав ему новое имя (Друзья человека).
 ![task_1.JPG](Screenshot%2Ftask_1.JPG)
 2. Создать директорию, переместить файл туда.
-![task_2.JPG](Screenshot%2Ftask_2.JPG)
+![task_2.JPG](Screenshot%2Ftask_2.JPG) 
