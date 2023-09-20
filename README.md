@@ -1,7 +1,13 @@
 # final_test_september_2023
-# Итоговая контрольная работа по блоку специализация
-It is necessary to organize an accounting system for the nursery in which domestic and pack animals live.
+### Итоговая контрольная работа по блоку специализация
+It is necessary to organize an accounting system for the nursery in which domestic and pack animals live.  
 Необходимо организовать систему учета для питомника в котором живут домашние и вьючные животные.
 
-
-![img.png](img.png)
+1. Используя команду cat в терминале операционной системы Linux, создать
+   два файла Домашние животные (заполнив файл собаками, кошками,
+   хомяками) и Вьючные животными заполнив файл Лошадьми, верблюдами и
+   ослы), а затем объединить их. Просмотреть содержимое созданного файла.
+   Переименовать файл, дав ему новое имя (Друзья человека).
+![task_1.JPG](Screenshot%2Ftask_1.JPG)
+2. Создать директорию, переместить файл туда.
+![task_2.JPG](Screenshot%2Ftask_2.JPG)
